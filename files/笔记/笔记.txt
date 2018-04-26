@@ -1,0 +1,8 @@
+﻿git命令：
+git init:   初始化？
+git status : 查看项目中的文件发生了变化
+git add .  : 将所有的这些变更文件添加进去
+git commit -am "添加注释"： 提交文件（此时提交到本地仓库）
+git remote add origin 
+git branch :查看分支
+git push-u origin master ：推送到远程
